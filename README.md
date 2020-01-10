@@ -1,6 +1,6 @@
 # Q&A A/B testing
 
-The Q&A platform has just introduced a new UI design to the app. The goal of the new design is to increase user engagement (measured by minutes spent on site. The team ran an A/B test to evaluate the change. Using the data, I will help the team understand the impact of the UI change better.
+The Q&A platform has just introduced a new UI design to the app. The goal of the new design is to increase user engagement (measured by minutes spent on site). The team ran an A/B test to evaluate the change. Using the data, I will help the team understand the impact of the UI change better.
 
 For the privacy of the data, I will only make the dataset visible in this Jupyter Notebook without posting the actual data on github.
 
